@@ -2,7 +2,7 @@
 
 An interactive web application that visualizes near-Earth objects (NEOs), asteroids, comets, planets, and other celestial phenomena. Built to explore the wonders of space through engaging visualizations and educational content.
 
-**🔗 Live Demo:** [https://siddarammanur656.github.io/space-objects-viewer/](https://siddarammanur656.github.io/space-objects-viewer/)
+**🔗 Live Demo:** [https://mehanm88.github.io/space-objects-viewer/](https://mehanm88.github.io/space-objects-viewer/)
 
 ---
 
